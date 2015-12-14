@@ -1,3 +1,6 @@
 [submodule "rx-dd-relation-framework"]
 	path = rx-dd-relation-framework
 	url = https://github.com/ilyavf/rx-dd-relation-framework.git
+[submodule "weather-forecast"]
+	path = weather-forecast
+	url = https://github.com/ilyavf/weatherForecast.git
